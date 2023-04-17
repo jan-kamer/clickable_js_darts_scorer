@@ -1,15 +1,30 @@
 # Clickable Darts Scorer
 
-Darts Scorer written in JavaScript
+- Modified version 2023, Ruffsik
 
-This uses the djave's clickable dartboard which can be found [here](http://djave.co.uk/free-svg-dartboard/)
+## Description
 
-It runs in the browser
+- Darts Scorer written in JavaScript
+- One page browser application
+- Desktop use only
+- This uses the djave's clickable dartboard which can be found [here](http://djave.co.uk/free-svg-dartboard/)
 
-To load packages:
+## Installation
 
-```
-$ npm install
-```
+1. Download/Clone this repository
+2. Open `dartboard.html` in your browser
 
-To run the app open `dartboard.html` in the browser.
+## Usage
+
+- Enter the names of two players
+- Choose the score to play for (Options: 301, 501, 701, 1001)
+- Click the hits on the dartboard
+- Automatic score calculation
+- Automatic checkout and combination finishes calculation
+
+![Image of the application with the settings section: Enter player names and choose score](https://i.postimg.cc/BQKmhnn1/clickable-dartboard-counter1.png)
+![Image of the application with the clickable dartboard and scoreboard](https://i.postimg.cc/6pxYFx8b/clickable-dartboard-counter2.png)
+
+## License
+
+[License](dartboard/dartboard_license.md)

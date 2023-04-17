@@ -25,6 +25,11 @@
 ![Image of the application with the settings section: Enter player names and choose score](https://i.postimg.cc/BQKmhnn1/clickable-dartboard-counter1.png)
 ![Image of the application with the clickable dartboard and scoreboard](https://i.postimg.cc/6pxYFx8b/clickable-dartboard-counter2.png)
 
+## Roadmap
+
+- Allow to correct single throws, delete and press again on the dartboard
+- Able to play with more than two players
+
 ## License
 
 [License](dartboard/dartboard_license.md)
